@@ -34,6 +34,7 @@
 .card img{
     width: 140px;
     border-radius: 50%;
+    aspect-ratio: 1;
 }
 
 .card h2{
